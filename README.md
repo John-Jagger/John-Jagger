@@ -12,7 +12,6 @@ I’m a curious and driven student constantly exploring the vast world of comput
 I’m especially passionate about:
 - Cybersecurity: Improving systems' confidentiality, integrity, and availability.  
 - Software Development: Building robust, scalable, and maintainable applications.  
-- Graphics Programming: Breathing life into projects with OpenGL and creative animations.  
 
 ---
 
