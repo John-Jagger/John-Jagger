@@ -27,6 +27,15 @@ Frameworks and Tools
 
 # 📂 Featured Projects
 
+Journey to Vegas (https://github.com/Bkarlen04/Journey-To-Vegas)
+
+[![Watch the video](https://img.youtube.com/vi/vs4vy5Xd9c4/maxresdefault.jpg)](https://youtu.be/vs4vy5Xd9c4)
+
+### [Watch this video on YouTube](https://youtu.be/vs4vy5Xd9c4)
+
+-  Journey to Vegas is a fast-paced, arcade-style driving game where you race down the highway toward Las Vegas while managing risk through blackjack-inspired mechanics. Dodge traffic, play smart hands, and make it to the city before time runs out!
+- Worked on blackjack logic, core game logic, upgrades, and some sprites
+
 [Advant of Code 2024 🎄](https://github.com/John-Jagger/AdvantCode2024)  
 - Technologies: Python
 - Never did a major code project outside school so I thought documenting my 
